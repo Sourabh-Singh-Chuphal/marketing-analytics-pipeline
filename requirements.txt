@@ -1,0 +1,7 @@
+# requirements.txt
+pyspark==3.5.1
+pandas==2.2.2
+faker==25.2.0
+pandas-gbq==0.23.0
+great-expectations==0.18.15
+pytest==8.2.0

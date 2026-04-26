@@ -1,0 +1,501 @@
+lead_id,first_name,last_name,email,source,status,created_at
+L1000,Daniel,Figueroa,jeffreydoyle@example.net,Email Marketing,New,2026-03-30 03:19:22
+L1001,Patricia,Miller,fjohnson@example.org,Google Ads,Closed-Lost,2026-04-08 23:13:53
+L1002,William,Johnson,jennifermiles@example.com,LinkedIn Ads,Contacted,2026-02-18 15:29:23
+L1003,Shane,Ramirez,blakeerik@example.com,Facebook Ads,Contacted,2026-02-17 11:00:51
+L1004,Joshua,Lewis,curtis61@example.com,Email Marketing,New,2026-03-01 02:11:30
+L1005,Maurice,Baker,blairamanda@example.com,Email Marketing,Closed-Lost,2026-04-19 08:09:20
+L1006,Andrea,Calderon,barbara10@example.net,Direct,New,2026-02-03 16:58:05
+L1007,Kendra,Galloway,michellejames@example.com,Direct,Nurturing,2026-02-18 04:23:31
+L1008,Mary,Martin,jason41@example.net,Google Ads,New,2026-03-29 18:36:09
+L1009,George,Daniel,stevennelson@example.net,Google Ads,Contacted,2026-03-29 16:57:25
+L1010,Angela,Cohen,perezantonio@example.com,Facebook Ads,Closed-Won,2026-04-03 20:53:02
+L1011,Joseph,Clark,jason76@example.net,Direct,New,2026-03-07 00:07:56
+L1012,Douglas,Taylor,julie69@example.com,Direct,Contacted,2026-03-12 14:33:10
+L1013,Jeffrey,Bright,ddavis@example.org,Email Marketing,Closed-Lost,2026-03-03 04:51:48
+L1014,Courtney,Conner,ycarlson@example.com,Email Marketing,Closed-Won,2026-02-10 21:29:47
+L1015,Wendy,Rice,frazierdanny@example.net,Organic Search,Contacted,2026-03-25 21:52:16
+L1016,Joseph,Davidson,cartereric@example.org,Organic Search,Closed-Won,2026-04-09 23:01:21
+L1017,Nancy,Baker,williamrodriguez@example.net,LinkedIn Ads,New,2026-04-07 03:56:49
+L1018,Meagan,Romero,ericfarmer@example.net,Referral,Contacted,2026-02-25 00:46:38
+L1019,Sandra,Sellers,tracy15@example.com,Email Marketing,Nurturing,2026-04-12 15:40:54
+L1020,Brian,Humphrey,millertodd@example.org,LinkedIn Ads,Qualified,2026-02-19 07:18:53
+L1021,Amanda,Martinez,karroyo@example.com,Facebook Ads,Contacted,2026-04-10 21:40:55
+L1022,Monique,Henderson,sarahcampos@example.net,Referral,Qualified,2026-03-19 06:55:10
+L1023,Jennifer,Ross,samuel87@example.org,Google Ads,New,2026-02-15 14:03:59
+L1024,Jeffrey,Morgan,briannasmith@example.net,Organic Search,New,2026-02-20 03:00:45
+L1025,Brian,Jones,heathchad@example.org,LinkedIn Ads,Qualified,2026-03-29 07:55:37
+L1026,Elizabeth,Lewis,jenniferkhan@example.net,Direct,Qualified,2026-02-23 02:14:58
+L1027,John,Kennedy,glee@example.net,Referral,New,2026-03-13 22:45:13
+L1028,Michael,Jenkins,nuneztracey@example.org,Email Marketing,Nurturing,2026-03-09 21:46:21
+L1029,Richard,Morgan,wrightjames@example.com,Direct,New,2026-02-01 22:35:17
+L1030,Robert,Ramirez,nancyjones@example.net,Organic Search,New,2026-02-09 15:59:56
+L1031,Brent,Kidd,novaksara@example.org,Direct,Qualified,2026-02-05 13:29:39
+L1032,Richard,Olson,kbarrera@example.com,Referral,Closed-Lost,2026-02-12 04:53:00
+L1033,Tricia,Baker,smitchell@example.net,Direct,Qualified,2026-01-27 06:22:22
+L1034,Angela,Higgins,jamesrobinson@example.org,Direct,Contacted,2026-04-13 02:42:54
+L1035,Jill,Brown,brian97@example.net,Email Marketing,New,2026-03-24 06:56:18
+L1036,Melissa,Moore,yorkcasey@example.org,Google Ads,Closed-Lost,2026-04-26 07:40:40
+L1037,Michelle,Powell,bethwilliams@example.org,Facebook Ads,Qualified,2026-04-02 14:42:35
+L1038,Diane,Cunningham,sarah35@example.org,Google Ads,Contacted,2026-03-08 18:12:55
+L1039,Randy,Powers,stephen10@example.com,Referral,New,2026-02-21 20:16:38
+L1040,Yolanda,Ferrell,medinawilliam@example.org,Organic Search,Qualified,2026-03-28 08:45:23
+L1041,Nicole,Suarez,justin78@example.net,Organic Search,Closed-Lost,2026-03-01 22:36:00
+L1042,Cheryl,Archer,contrerasangela@example.net,Referral,Qualified,2026-02-25 10:15:59
+L1043,Sheila,Taylor,prestonjulia@example.org,Facebook Ads,Qualified,2026-02-06 02:43:28
+L1044,Juan,Clark,james48@example.com,LinkedIn Ads,Contacted,2026-02-22 11:58:04
+L1045,Rebecca,Mathis,waltersmaria@example.org,Email Marketing,Qualified,2026-02-20 10:30:19
+L1046,Matthew,Anderson,evan78@example.net,Email Marketing,Closed-Lost,2026-01-27 09:36:45
+L1047,Ann,Rodriguez,amydavenport@example.net,Email Marketing,New,2026-03-09 13:55:59
+L1048,Earl,Anderson,michael05@example.org,Direct,Closed-Lost,2026-03-21 16:49:38
+L1049,John,Garcia,vdickson@example.org,Facebook Ads,Closed-Won,2026-04-03 06:40:52
+L1050,Sarah,Hancock,nicolejohnson@example.net,Email Marketing,Contacted,2026-04-26 22:32:11
+L1051,Martin,Galvan,josephcobb@example.org,Facebook Ads,Nurturing,2026-04-26 19:33:43
+L1052,Monica,Garrison,jamessellers@example.com,Organic Search,Qualified,2026-03-05 04:44:14
+L1053,Lori,Savage,andrewlee@example.com,Email Marketing,Closed-Lost,2026-02-25 16:29:48
+L1054,Michelle,Rasmussen,michael86@example.net,Direct,Contacted,2026-02-23 02:32:33
+L1055,Amanda,Crosby,wileyjose@example.net,Email Marketing,Qualified,2026-04-18 23:13:24
+L1056,Benjamin,Carlson,jessica56@example.net,Referral,New,2026-02-21 19:55:55
+L1057,Darrell,Lam,jonathanfletcher@example.org,Facebook Ads,New,2026-03-17 17:03:09
+L1058,Sara,Ryan,michaeljones@example.net,Referral,Qualified,2026-03-18 12:51:09
+L1059,Mark,Edwards,cortezkevin@example.com,Organic Search,Qualified,2026-04-26 10:54:07
+L1060,Ricky,Powell,angela36@example.net,Google Ads,Contacted,2026-04-01 19:19:25
+L1061,Erica,Orr,richard04@example.com,Direct,Closed-Lost,2026-03-04 20:49:23
+L1062,Russell,Carpenter,steven73@example.net,LinkedIn Ads,Contacted,2026-02-16 11:06:42
+L1063,Laura,Moyer,donnacampbell@example.net,Email Marketing,Nurturing,2026-03-13 23:57:15
+L1064,Christine,Davis,emilywalker@example.org,Organic Search,Closed-Lost,2026-03-29 12:12:34
+L1065,Andrew,Sanchez,xcarr@example.org,Organic Search,Contacted,2026-02-10 08:42:36
+L1066,Robert,Soto,jennifercruz@example.com,LinkedIn Ads,Contacted,2026-03-12 06:32:49
+L1067,Dylan,Watts,osbornejeffery@example.net,Facebook Ads,Closed-Lost,2026-02-19 17:52:31
+L1068,Steven,Grant,bryantlaurie@example.net,Direct,Closed-Won,2026-03-18 08:16:46
+L1069,Vanessa,Larson,usalazar@example.net,LinkedIn Ads,Closed-Lost,2026-03-19 14:58:39
+L1070,Maria,Kelley,juliawells@example.com,Direct,Nurturing,2026-03-09 11:43:42
+L1071,John,Walsh,rsims@example.com,Direct,Nurturing,2026-04-10 01:07:02
+L1072,Jennifer,Young,luis81@example.org,LinkedIn Ads,Contacted,2026-02-03 13:53:59
+L1073,Jesse,Benson,calebrussell@example.net,Facebook Ads,Closed-Won,2026-02-10 16:48:41
+L1074,Robert,Clark,xprice@example.net,Organic Search,New,2026-03-13 07:01:58
+L1075,Andrew,Gilmore,wwoods@example.com,Referral,New,2026-04-04 14:02:11
+L1076,Peter,Snow,vmedina@example.net,Referral,New,2026-04-10 05:04:29
+L1077,Carrie,Walker,joshuatucker@example.com,Facebook Ads,Closed-Lost,2026-04-14 17:10:42
+L1078,Elizabeth,Yates,marycalhoun@example.net,Facebook Ads,Closed-Lost,2026-02-28 16:35:20
+L1079,Anthony,Long,millerroy@example.com,Organic Search,Closed-Won,2026-03-19 21:56:55
+L1080,Brent,Gray,shawnrogers@example.com,Google Ads,Nurturing,2026-02-13 16:48:35
+L1081,Karen,Decker,mary70@example.net,Organic Search,Closed-Won,2026-02-23 01:44:07
+L1082,Brett,Crane,debraharrington@example.net,Organic Search,Closed-Won,2026-03-20 10:17:16
+L1083,Karen,Herring,maryhowell@example.org,LinkedIn Ads,Closed-Won,2026-01-30 23:09:31
+L1084,Thomas,Wilson,stevenscott@example.com,Referral,New,2026-02-08 07:28:00
+L1085,Catherine,Stuart,stricklandfrank@example.com,Email Marketing,Closed-Lost,2026-02-12 08:19:39
+L1086,Beth,Hickman,tsanders@example.org,Google Ads,Closed-Lost,2026-02-06 13:14:20
+L1087,Brittany,Rivas,curtisbarton@example.net,Direct,Qualified,2026-02-03 10:26:06
+L1088,Linda,Hogan,reedross@example.com,Referral,Closed-Lost,2026-03-26 08:24:39
+L1089,William,Peterson,gshort@example.com,LinkedIn Ads,New,2026-02-02 18:01:53
+L1090,Cynthia,Poole,ryangross@example.net,LinkedIn Ads,Nurturing,2026-03-03 05:18:35
+L1091,Christina,Gillespie,umarshall@example.net,Facebook Ads,Nurturing,2026-02-22 06:41:17
+L1092,Marcus,Sanchez,ramirezshannon@example.com,Google Ads,Closed-Lost,2026-02-22 02:45:26
+L1093,Cheryl,Gray,snydermark@example.com,Email Marketing,Qualified,2026-03-23 09:11:47
+L1094,Michael,Green,nicole48@example.org,Direct,Contacted,2026-02-16 15:37:32
+L1095,Stacy,Miller,wfreeman@example.org,Direct,New,2026-03-18 05:10:45
+L1096,Thomas,Joseph,fmcguire@example.com,Referral,Closed-Lost,2026-04-04 02:35:13
+L1097,Richard,Sanchez,thomas85@example.com,LinkedIn Ads,Closed-Lost,2026-02-17 13:42:27
+L1098,Andrea,Bell,qnelson@example.org,Direct,Closed-Won,2026-04-09 11:30:21
+L1099,Jennifer,Stewart,jamesrodgers@example.com,Facebook Ads,Contacted,2026-02-07 18:29:56
+L1100,Brittany,Wolf,tina34@example.org,LinkedIn Ads,Contacted,2026-04-07 09:45:21
+L1101,Harry,Smith,joshuamccann@example.net,Direct,Closed-Won,2026-03-03 02:15:51
+L1102,Heidi,Martinez,agarcia@example.net,Google Ads,Closed-Won,2026-02-24 10:04:41
+L1103,Taylor,Alexander,tammyking@example.com,LinkedIn Ads,Nurturing,2026-02-23 15:54:33
+L1104,Lynn,Morales,rayglenda@example.org,Google Ads,New,2026-02-07 03:11:34
+L1105,Lisa,Avery,mcknightdavid@example.com,LinkedIn Ads,Qualified,2026-02-10 13:00:22
+L1106,Caitlin,Montgomery,chayes@example.com,Facebook Ads,New,2026-03-26 22:10:23
+L1107,Brianna,Patterson,lynchjody@example.org,Facebook Ads,Closed-Won,2026-04-20 13:41:02
+L1108,Jason,Guerrero,johnarnold@example.org,Google Ads,New,2026-03-28 18:54:22
+L1109,Ricky,Norris,ocarter@example.com,Email Marketing,Nurturing,2026-01-27 07:35:07
+L1110,Justin,Heath,mcdanielsandra@example.net,Referral,New,2026-04-05 16:40:37
+L1111,Donna,Peck,owilson@example.net,Referral,Closed-Won,2026-03-25 07:39:35
+L1112,Rebekah,Serrano,brownlaura@example.net,Referral,Contacted,2026-02-10 12:31:15
+L1113,Madison,Morse,smartinez@example.com,Facebook Ads,Closed-Lost,2026-04-09 18:32:54
+L1114,Richard,Nelson,mkim@example.org,Organic Search,Closed-Won,2026-04-04 23:50:53
+L1115,Ryan,Morris,anthony39@example.net,Facebook Ads,Qualified,2026-04-23 09:51:21
+L1116,Yvonne,Chambers,barbara27@example.net,Direct,Closed-Won,2026-01-29 01:41:27
+L1117,Scott,Ramirez,fwalters@example.org,Organic Search,Contacted,2026-03-31 07:28:39
+L1118,Michael,Cook,hodgemark@example.net,Direct,Closed-Lost,2026-03-13 16:33:14
+L1119,Keith,Landry,gibsonleonard@example.com,Email Marketing,Contacted,2026-03-16 03:52:37
+L1120,Tara,Powell,sandovalamy@example.com,Email Marketing,Qualified,2026-02-07 07:28:02
+L1121,Jacob,Cox,wgarrett@example.org,Organic Search,Closed-Lost,2026-02-01 07:39:18
+L1122,Joseph,Anderson,samuel71@example.org,Email Marketing,Qualified,2026-02-15 19:40:32
+L1123,Chelsea,Allen,lancesmith@example.com,Organic Search,Closed-Won,2026-03-29 05:24:31
+L1124,Jeffrey,Skinner,murraydavid@example.org,Organic Search,New,2026-02-05 02:32:37
+L1125,Sarah,Carter,robert77@example.org,Facebook Ads,Contacted,2026-03-16 10:38:58
+L1126,Andrea,Reyes,michellehill@example.com,Google Ads,Qualified,2026-03-12 09:44:24
+L1127,Sarah,Romero,campbellkenneth@example.net,Google Ads,Closed-Won,2026-03-01 01:19:02
+L1128,Yolanda,Burns,seanwashington@example.com,Direct,Contacted,2026-03-24 08:40:11
+L1129,Kathryn,Bennett,molly39@example.com,Direct,Contacted,2026-03-21 15:24:40
+L1130,Melissa,Jenkins,julie66@example.net,Google Ads,New,2026-02-18 17:35:25
+L1131,Lori,Pollard,ihanna@example.net,Email Marketing,Closed-Lost,2026-04-13 23:45:41
+L1132,Martin,Garcia,dgarcia@example.org,Google Ads,Contacted,2026-03-25 08:34:14
+L1133,Douglas,Pitts,charlesharrington@example.com,Google Ads,New,2026-04-07 04:46:00
+L1134,Cindy,Sanders,christianmelissa@example.net,Referral,Qualified,2026-02-28 22:15:19
+L1135,Stephanie,Sims,cbrennan@example.net,Google Ads,Closed-Won,2026-03-04 22:50:11
+L1136,Jimmy,Cohen,wendy16@example.org,Facebook Ads,Qualified,2026-02-02 16:46:56
+L1137,Cynthia,Brennan,tjackson@example.org,Email Marketing,Nurturing,2026-04-10 21:08:25
+L1138,Mark,Brown,nicholas23@example.net,Facebook Ads,Closed-Won,2026-01-31 12:31:02
+L1139,Ashlee,Sparks,gregorylynch@example.com,Facebook Ads,Closed-Lost,2026-03-08 01:30:02
+L1140,Felicia,Jimenez,jesselittle@example.com,Direct,Closed-Won,2026-03-28 05:22:49
+L1141,Elizabeth,Nolan,rsantana@example.net,Organic Search,Contacted,2026-02-20 20:18:17
+L1142,Charles,Landry,danielle64@example.com,Referral,Nurturing,2026-02-11 09:27:37
+L1143,Kevin,Kidd,yrodriguez@example.net,Referral,Nurturing,2026-04-19 03:03:05
+L1144,Bailey,Haney,andrew64@example.org,Facebook Ads,New,2026-03-02 21:47:09
+L1145,Michelle,Osborne,lozanojulie@example.com,Google Ads,Closed-Lost,2026-03-23 00:03:38
+L1146,Lauren,Lawson,jeffery39@example.com,Organic Search,Qualified,2026-04-12 08:57:28
+L1147,Karla,Saunders,courtneyberger@example.net,Organic Search,Nurturing,2026-04-02 20:39:22
+L1148,Kyle,Alexander,jessica14@example.com,Organic Search,Closed-Lost,2026-01-30 21:12:42
+L1149,Robert,Gonzalez,alyssa42@example.com,Google Ads,Closed-Lost,2026-04-09 15:06:25
+L1150,Makayla,Olson,julie51@example.com,Email Marketing,Closed-Lost,2026-04-25 19:14:20
+L1151,Donald,Levy,zcoffey@example.net,Google Ads,New,2026-02-03 08:48:38
+L1152,Christopher,Foster,amanda75@example.net,Organic Search,Closed-Lost,2026-03-03 13:40:05
+L1153,Emily,Richards,daniel37@example.org,LinkedIn Ads,New,2026-04-09 18:40:26
+L1154,Nicole,Hoffman,deborahreid@example.com,Facebook Ads,Contacted,2026-03-28 04:59:57
+L1155,Jacqueline,Banks,taylorsophia@example.com,Facebook Ads,Closed-Won,2026-04-25 08:22:38
+L1156,Darren,Young,paulwatson@example.net,Organic Search,Contacted,2026-03-15 21:14:56
+L1157,Sonya,Barnes,nicolepena@example.com,Organic Search,Contacted,2026-04-04 16:16:33
+L1158,Ricky,Lynn,vaughnjeff@example.com,LinkedIn Ads,Nurturing,2026-03-27 19:55:27
+L1159,Melissa,Garcia,amy50@example.com,Facebook Ads,New,2026-02-18 23:31:58
+L1160,James,Martinez,ndavis@example.net,Organic Search,Closed-Won,2026-02-22 20:12:03
+L1161,Carla,Smith,john29@example.org,Google Ads,New,2026-03-30 03:28:37
+L1162,Maria,Spencer,lisahall@example.org,Email Marketing,Closed-Won,2026-02-02 17:13:25
+L1163,Rachel,Smith,vanessafernandez@example.org,Referral,New,2026-04-13 15:01:25
+L1164,Donna,Johnson,howardkristina@example.net,Google Ads,Contacted,2026-02-06 17:29:51
+L1165,Alfred,Baker,judyfox@example.net,Facebook Ads,Nurturing,2026-02-27 11:47:33
+L1166,Thomas,Strickland,hayesjeffrey@example.net,Organic Search,Nurturing,2026-02-02 05:27:05
+L1167,Jessica,Kerr,stephen00@example.com,Facebook Ads,Nurturing,2026-01-31 06:23:54
+L1168,Richard,Parks,cjoseph@example.org,Google Ads,Contacted,2026-04-19 07:41:57
+L1169,Christopher,Franklin,martinezclaudia@example.net,Organic Search,New,2026-04-24 08:47:38
+L1170,Jennifer,James,shawn96@example.org,Organic Search,Qualified,2026-03-21 07:06:49
+L1171,Jacqueline,Farrell,russellbeasley@example.com,Referral,Nurturing,2026-04-14 01:23:54
+L1172,Maria,Ross,edwardslarry@example.com,LinkedIn Ads,Nurturing,2026-02-28 23:07:06
+L1173,Stephanie,Mcdaniel,fjones@example.org,Email Marketing,Closed-Lost,2026-03-04 09:32:06
+L1174,Colin,Rodgers,angelawillis@example.net,Referral,Closed-Won,2026-03-09 23:41:44
+L1175,Mark,Martinez,morgan60@example.com,Email Marketing,Closed-Lost,2026-03-22 14:10:03
+L1176,Larry,Garcia,ericolson@example.org,Organic Search,Contacted,2026-03-26 08:24:26
+L1177,Megan,Richardson,audrey68@example.net,Facebook Ads,Qualified,2026-03-02 01:10:31
+L1178,Emily,Hawkins,anthony44@example.com,Facebook Ads,New,2026-03-27 15:04:47
+L1179,Adam,Kane,vjones@example.net,Direct,Closed-Lost,2026-03-02 03:17:39
+L1180,Christopher,Moreno,vbarnes@example.org,Direct,New,2026-01-30 00:47:12
+L1181,Larry,Nguyen,wareeric@example.net,Email Marketing,Qualified,2026-03-03 23:38:12
+L1182,Emily,Nelson,ctucker@example.com,Google Ads,New,2026-01-31 21:18:20
+L1183,Jason,Hunt,russell49@example.com,Direct,Nurturing,2026-02-22 13:52:31
+L1184,Elizabeth,Williams,djoyce@example.org,Direct,Closed-Won,2026-03-19 05:11:45
+L1185,Kevin,Clark,kathrynroberts@example.org,Facebook Ads,New,2026-02-15 21:41:27
+L1186,Tyler,Jordan,omarpadilla@example.net,Direct,New,2026-01-27 19:21:45
+L1187,Martha,Drake,sandersjudy@example.com,Referral,Contacted,2026-03-22 07:16:14
+L1188,Steve,Miller,barbara96@example.net,Google Ads,Closed-Won,2026-01-28 21:01:17
+L1189,Robert,Wilson,burchgeorge@example.net,Google Ads,Closed-Lost,2026-03-30 04:59:19
+L1190,Marilyn,Gillespie,kimdaniel@example.com,Referral,Contacted,2026-03-12 17:27:14
+L1191,Richard,Miller,julie35@example.org,Organic Search,New,2026-03-25 05:31:12
+L1192,William,Wilson,rebeccabailey@example.net,Direct,Contacted,2026-02-03 11:19:38
+L1193,Debbie,Hernandez,thomasjames@example.net,Direct,Closed-Won,2026-04-16 13:38:20
+L1194,Kathleen,Rios,stephanieburton@example.com,Google Ads,Closed-Won,2026-02-10 21:33:46
+L1195,Anne,Riley,michelle52@example.com,Google Ads,Nurturing,2026-04-10 07:20:12
+L1196,Taylor,Welch,brittany58@example.org,Email Marketing,Closed-Won,2026-02-02 16:28:08
+L1197,Steven,Johnson,marie11@example.net,Direct,Closed-Won,2026-02-26 04:39:11
+L1198,William,Ford,colelisa@example.net,LinkedIn Ads,Qualified,2026-03-25 17:39:24
+L1199,Marc,Alvarez,susanhayes@example.com,Facebook Ads,Closed-Lost,2026-02-14 07:58:49
+L1200,Christopher,Lucas,wrightsamuel@example.com,Email Marketing,Qualified,2026-04-06 09:49:35
+L1201,Alexandra,Moore,samantha66@example.com,Facebook Ads,Qualified,2026-03-18 22:31:07
+L1202,Carla,Mccormick,cameron18@example.net,Organic Search,Contacted,2026-04-02 23:17:48
+L1203,Justin,Cummings,mathewaguilar@example.org,Email Marketing,Closed-Lost,2026-03-05 14:06:37
+L1204,Michael,Ponce,tanderson@example.org,LinkedIn Ads,Nurturing,2026-04-26 01:31:28
+L1205,Angelica,Schneider,lisa81@example.net,LinkedIn Ads,New,2026-02-26 02:43:43
+L1206,Rodney,Cox,kyle35@example.com,Google Ads,Nurturing,2026-04-02 03:37:34
+L1207,Jeremy,Taylor,phillipskristin@example.net,Direct,Closed-Won,2026-02-14 16:45:18
+L1208,Amber,Rodgers,stanleynancy@example.net,Google Ads,New,2026-04-11 21:37:07
+L1209,Carla,Moore,mariewise@example.org,Direct,Contacted,2026-02-08 18:43:01
+L1210,Samuel,Jenkins,tarabishop@example.net,Direct,Qualified,2026-04-07 01:49:43
+L1211,Shane,Ferguson,tammy73@example.com,Facebook Ads,Qualified,2026-04-13 03:44:15
+L1212,Stacey,Joyce,xhammond@example.com,Google Ads,Contacted,2026-04-02 21:55:12
+L1213,Allison,Burch,laurietaylor@example.com,LinkedIn Ads,Qualified,2026-03-16 21:12:29
+L1214,Danielle,Sawyer,dawsonzachary@example.org,Facebook Ads,Nurturing,2026-02-01 02:56:17
+L1215,Christopher,Martin,jwhitehead@example.com,Referral,Closed-Won,2026-02-23 17:35:43
+L1216,Stacey,Walker,bwilkerson@example.com,Email Marketing,Qualified,2026-02-04 23:03:31
+L1217,Randy,Brooks,xvang@example.org,Direct,Closed-Lost,2026-02-01 05:26:53
+L1218,Lucas,Garcia,lacey20@example.com,Direct,New,2026-01-29 19:01:56
+L1219,Maria,Horton,katherineharrison@example.net,Email Marketing,Closed-Won,2026-04-26 03:02:18
+L1220,Rebecca,Smith,marydunn@example.net,LinkedIn Ads,Closed-Lost,2026-01-27 13:35:12
+L1221,Allison,Rodriguez,john10@example.org,Google Ads,Contacted,2026-03-27 04:08:38
+L1222,Danielle,Dean,rodriguezrebecca@example.net,LinkedIn Ads,New,2026-03-08 19:36:53
+L1223,Allen,Robertson,jennifercarter@example.org,Google Ads,Closed-Lost,2026-03-20 02:26:47
+L1224,Michael,Duncan,elizabethmiller@example.com,Direct,Contacted,2026-03-27 17:57:38
+L1225,Stephanie,Stephens,myerstheodore@example.net,LinkedIn Ads,Qualified,2026-02-02 15:03:17
+L1226,Tina,King,kellycarlos@example.org,Direct,Contacted,2026-03-05 14:50:57
+L1227,Diane,Garcia,dennis58@example.com,Email Marketing,Qualified,2026-04-08 05:13:36
+L1228,Dawn,Greer,epollard@example.net,Facebook Ads,Closed-Lost,2026-04-16 00:57:48
+L1229,Lisa,Brown,mjohnson@example.org,Email Marketing,Qualified,2026-02-13 18:05:20
+L1230,James,Williams,zachary87@example.com,Direct,Nurturing,2026-04-13 20:46:07
+L1231,Karen,Lee,michelle05@example.com,LinkedIn Ads,New,2026-01-30 14:40:59
+L1232,Lauren,Kim,ypaul@example.com,Google Ads,Closed-Lost,2026-02-08 03:23:54
+L1233,Tyler,Jimenez,laurie61@example.com,Organic Search,Qualified,2026-02-14 04:39:58
+L1234,Wanda,White,manuel15@example.net,Google Ads,New,2026-03-26 13:10:06
+L1235,Kirk,Morrison,cjackson@example.com,LinkedIn Ads,Contacted,2026-02-24 18:14:29
+L1236,Bobby,Berg,christina64@example.net,Email Marketing,Qualified,2026-03-11 11:14:17
+L1237,Stacy,Jones,zcox@example.net,Facebook Ads,Closed-Lost,2026-04-13 21:37:39
+L1238,Ernest,Johnson,ejohnson@example.org,Organic Search,Closed-Won,2026-04-03 00:29:31
+L1239,Deanna,Cox,jacobserika@example.com,Email Marketing,Nurturing,2026-04-12 15:25:22
+L1240,Scott,Jones,alyssasanders@example.net,Direct,New,2026-03-04 04:12:16
+L1241,John,Wilson,victorhughes@example.net,Google Ads,New,2026-02-23 02:44:41
+L1242,Jose,Green,nlewis@example.com,Email Marketing,Contacted,2026-02-07 11:45:12
+L1243,Sabrina,Henry,taylorcharles@example.org,Direct,New,2026-04-04 10:26:33
+L1244,Jennifer,Osborn,elizabeth18@example.net,Referral,Qualified,2026-04-24 07:25:28
+L1245,Patricia,York,laurahicks@example.org,Direct,Closed-Won,2026-02-24 05:56:37
+L1246,Laura,Young,jjohnson@example.net,Facebook Ads,Nurturing,2026-02-15 13:40:07
+L1247,Tanner,Bird,cherylmiller@example.com,Facebook Ads,New,2026-03-03 20:58:33
+L1248,Yvonne,Higgins,khammond@example.org,LinkedIn Ads,Qualified,2026-03-06 17:07:49
+L1249,Teresa,Day,howens@example.com,Referral,New,2026-02-08 05:22:59
+L1250,Natalie,Deleon,katrinaanderson@example.net,LinkedIn Ads,Contacted,2026-02-08 12:23:30
+L1251,Miranda,Guerra,kevinmartin@example.net,Email Marketing,Contacted,2026-04-25 11:27:50
+L1252,Michael,Everett,meghan43@example.net,Email Marketing,New,2026-02-17 22:44:03
+L1253,Joshua,Weber,shawgary@example.net,LinkedIn Ads,Closed-Won,2026-03-21 12:54:14
+L1254,George,Weber,megan90@example.org,Referral,Nurturing,2026-02-11 00:38:57
+L1255,Brandon,May,debra96@example.net,Direct,Closed-Lost,2026-02-03 22:36:48
+L1256,Anthony,Small,dawn47@example.org,Facebook Ads,Contacted,2026-03-30 02:18:28
+L1257,Lindsay,Sullivan,djones@example.org,Referral,Contacted,2026-04-15 04:24:35
+L1258,Robert,Marshall,catherine55@example.net,Referral,Contacted,2026-03-10 17:42:20
+L1259,Michael,Ross,zachary15@example.org,Organic Search,New,2026-04-20 15:06:25
+L1260,David,Cole,colinroberts@example.com,Facebook Ads,Closed-Lost,2026-03-13 08:18:37
+L1261,Christina,Wright,lisapeck@example.net,LinkedIn Ads,Nurturing,2026-04-20 22:59:53
+L1262,James,Moore,tjimenez@example.com,Referral,Closed-Lost,2026-02-26 10:01:44
+L1263,Christopher,Long,nlevy@example.net,Referral,Closed-Lost,2026-01-29 07:21:18
+L1264,Brandon,Campbell,amitchell@example.org,Referral,Contacted,2026-03-02 07:39:20
+L1265,Dennis,Baker,kathryn50@example.com,LinkedIn Ads,Contacted,2026-03-09 21:29:06
+L1266,Ashley,Lee,charles87@example.net,Referral,Closed-Lost,2026-02-01 00:33:23
+L1267,Marcia,Hanson,andersoncolin@example.com,Google Ads,Nurturing,2026-02-23 05:08:49
+L1268,Valerie,Grant,kari39@example.net,Referral,New,2026-04-14 05:35:43
+L1269,Vincent,Williams,jenniferbrock@example.net,Referral,Nurturing,2026-03-07 00:39:00
+L1270,Eduardo,Barry,markaustin@example.org,Facebook Ads,Contacted,2026-03-12 10:12:39
+L1271,Vicki,Stevenson,brittney88@example.net,Referral,Nurturing,2026-03-06 05:00:03
+L1272,Jeanne,Evans,richardsonemily@example.com,LinkedIn Ads,Qualified,2026-03-15 14:46:33
+L1273,Kyle,Roach,carlsonjoseph@example.net,Referral,Contacted,2026-03-24 17:28:30
+L1274,Teresa,Lane,jennifersilva@example.org,Facebook Ads,New,2026-04-13 01:38:56
+L1275,Cristina,Harvey,rhernandez@example.org,Email Marketing,Contacted,2026-03-18 22:54:01
+L1276,Ashley,Graves,andrewedwards@example.org,Organic Search,Qualified,2026-01-30 02:54:54
+L1277,Hannah,Jenkins,vsalas@example.net,LinkedIn Ads,New,2026-03-08 03:37:02
+L1278,Janice,Stone,whitney78@example.com,Referral,Qualified,2026-02-02 02:28:35
+L1279,Sue,Stevens,amy49@example.com,LinkedIn Ads,Closed-Lost,2026-02-26 12:26:49
+L1280,Susan,Ramirez,jeffrey44@example.net,Direct,Nurturing,2026-02-14 17:21:30
+L1281,Hannah,Burns,ybailey@example.net,Email Marketing,Closed-Won,2026-02-16 04:20:34
+L1282,Keith,Berry,zhuang@example.com,LinkedIn Ads,New,2026-02-22 14:33:10
+L1283,Linda,Roberts,stephanie15@example.com,Google Ads,Qualified,2026-04-12 02:43:15
+L1284,Jonathan,Mendoza,marianelson@example.net,Facebook Ads,Closed-Won,2026-03-31 17:52:34
+L1285,Joseph,Rodriguez,johnsantiago@example.net,LinkedIn Ads,New,2026-04-04 15:32:50
+L1286,Dana,Williams,erivera@example.org,Google Ads,Closed-Won,2026-02-17 23:12:12
+L1287,Kelli,Smith,richarddonovan@example.com,Organic Search,Qualified,2026-04-03 04:38:34
+L1288,Debra,Avila,manuel01@example.net,Email Marketing,Qualified,2026-03-14 09:53:10
+L1289,Jesse,Rodgers,gentrygregory@example.org,Organic Search,Closed-Won,2026-03-23 19:10:41
+L1290,Benjamin,Huff,vlopez@example.com,Direct,New,2026-04-26 08:15:17
+L1291,Benjamin,Evans,hebertmatthew@example.com,Organic Search,Closed-Won,2026-04-22 04:18:36
+L1292,Amy,Snyder,melissamcdonald@example.org,Facebook Ads,Qualified,2026-03-30 07:43:00
+L1293,Daniel,Martin,twong@example.org,Google Ads,Closed-Lost,2026-04-15 14:01:24
+L1294,Jill,Gibbs,gregorychase@example.com,Organic Search,New,2026-01-28 10:10:08
+L1295,Ronald,Murphy,lcaldwell@example.org,Direct,Closed-Won,2026-04-17 08:22:35
+L1296,Marcus,Wright,patrick74@example.com,Email Marketing,Closed-Lost,2026-03-14 09:53:57
+L1297,Brandi,Berry,desiree30@example.net,Email Marketing,Closed-Lost,2026-02-25 08:56:07
+L1298,Steven,Moore,hannah45@example.net,Email Marketing,Contacted,2026-02-07 12:50:03
+L1299,Jeffrey,Anderson,spencerzhang@example.com,LinkedIn Ads,Nurturing,2026-02-17 11:57:59
+L1300,Jacqueline,Durham,kathleenbecker@example.net,Google Ads,Closed-Lost,2026-03-08 10:20:27
+L1301,Kristin,Fox,christian91@example.org,LinkedIn Ads,Closed-Won,2026-04-21 19:54:09
+L1302,Amy,Wagner,franklinbond@example.com,LinkedIn Ads,Closed-Lost,2026-04-17 12:32:02
+L1303,Erin,Love,gdavis@example.com,Referral,New,2026-02-07 08:12:33
+L1304,Brian,Anderson,dbryant@example.net,Email Marketing,Qualified,2026-04-15 13:44:22
+L1305,Emily,Parker,fosterlisa@example.net,Direct,Qualified,2026-03-12 22:46:12
+L1306,Beth,Williams,isabella80@example.org,Email Marketing,Nurturing,2026-02-17 05:05:50
+L1307,Anthony,Ortiz,katiegood@example.net,LinkedIn Ads,Nurturing,2026-03-13 21:21:22
+L1308,Nicholas,Vance,ykane@example.com,Email Marketing,Qualified,2026-03-08 20:51:53
+L1309,Felicia,Stanley,desireebailey@example.org,Direct,Contacted,2026-02-03 20:20:47
+L1310,Phillip,Anderson,maryavila@example.com,Facebook Ads,Nurturing,2026-03-20 05:15:12
+L1311,Emily,Stephens,pmorrow@example.com,Email Marketing,Nurturing,2026-03-13 00:13:40
+L1312,Eric,Lopez,johnsondonna@example.net,Email Marketing,Closed-Lost,2026-03-01 15:57:40
+L1313,Sharon,Small,jamiegarcia@example.org,Facebook Ads,Closed-Won,2026-04-11 10:23:04
+L1314,Carla,Warner,sanchezbradley@example.com,Direct,Qualified,2026-03-11 09:38:01
+L1315,Amber,Webster,taylorvictoria@example.org,Organic Search,Closed-Won,2026-02-18 19:24:02
+L1316,Sabrina,Johnston,joel28@example.org,Referral,New,2026-04-16 06:16:13
+L1317,Kevin,Brown,conniesimmons@example.com,LinkedIn Ads,Qualified,2026-03-08 05:00:56
+L1318,Teresa,David,ufloyd@example.net,Facebook Ads,Nurturing,2026-01-31 14:35:54
+L1319,Ricky,Evans,karenwells@example.org,Referral,Closed-Won,2026-03-08 11:27:26
+L1320,Meredith,Thomas,jmelendez@example.com,Direct,Closed-Lost,2026-02-25 06:07:01
+L1321,Angela,Anderson,jonathanrivera@example.org,LinkedIn Ads,Nurturing,2026-03-08 11:53:03
+L1322,Shannon,Watson,brettbennett@example.net,Organic Search,Nurturing,2026-04-26 14:17:35
+L1323,Benjamin,Jones,timothybooth@example.com,Email Marketing,Contacted,2026-03-26 14:15:38
+L1324,Susan,Smith,suzannewilson@example.com,Direct,Nurturing,2026-02-25 11:49:47
+L1325,John,Munoz,randyallen@example.com,Referral,Closed-Lost,2026-04-25 20:09:11
+L1326,Justin,Owens,kyle58@example.com,Facebook Ads,Closed-Lost,2026-04-12 08:25:43
+L1327,Corey,Zavala,ugill@example.org,Google Ads,Qualified,2026-03-13 07:13:07
+L1328,Lawrence,Williams,joycesmith@example.net,Direct,Closed-Lost,2026-03-04 01:09:20
+L1329,Beth,Butler,jameshall@example.net,Email Marketing,Closed-Won,2026-03-24 18:14:36
+L1330,John,Pierce,jonathan77@example.com,LinkedIn Ads,New,2026-04-17 23:13:35
+L1331,Jessica,Bell,jenniferfreeman@example.net,Referral,Contacted,2026-02-12 09:21:48
+L1332,Susan,Warren,landryelizabeth@example.org,Email Marketing,Qualified,2026-03-30 08:52:29
+L1333,Derrick,Mccoy,mannalbert@example.net,Facebook Ads,Contacted,2026-03-08 02:17:38
+L1334,Nathaniel,Williamson,bhopkins@example.org,Facebook Ads,New,2026-03-12 07:55:48
+L1335,Andrea,Smith,amanda40@example.net,Google Ads,Contacted,2026-03-19 17:29:43
+L1336,Heidi,Jordan,danieldavis@example.org,Organic Search,Closed-Won,2026-04-16 00:08:39
+L1337,James,Fox,joseph61@example.com,Referral,New,2026-02-19 10:50:55
+L1338,Stephen,Sanchez,kevinclayton@example.org,Organic Search,Nurturing,2026-03-07 11:27:46
+L1339,Victoria,Santos,davisnicholas@example.net,Email Marketing,Closed-Won,2026-03-31 12:39:54
+L1340,Brian,Smith,christopherbruce@example.net,Facebook Ads,Closed-Lost,2026-03-14 06:31:22
+L1341,Mark,Madden,jacobsonsamantha@example.org,Email Marketing,Nurturing,2026-04-13 05:04:47
+L1342,Rachel,Schwartz,enelson@example.net,Organic Search,Nurturing,2026-02-16 13:59:16
+L1343,Juan,Daniels,whitemelissa@example.org,Facebook Ads,Contacted,2026-04-26 22:07:10
+L1344,Brenda,Goodwin,thickman@example.org,Email Marketing,Closed-Lost,2026-02-16 04:03:50
+L1345,John,Davenport,irhodes@example.com,Google Ads,New,2026-03-22 19:28:06
+L1346,Karla,Taylor,masonterri@example.org,Referral,Nurturing,2026-03-05 07:46:37
+L1347,Samuel,Roberson,cassie99@example.com,Facebook Ads,Contacted,2026-02-05 12:58:29
+L1348,Mark,Walters,whenry@example.net,Referral,Closed-Lost,2026-04-12 03:51:50
+L1349,Ryan,Frazier,nmiller@example.com,Direct,Nurturing,2026-03-04 12:09:31
+L1350,John,Jones,eric26@example.com,Google Ads,Closed-Won,2026-04-14 12:57:14
+L1351,Daniel,Smith,sean41@example.org,Facebook Ads,New,2026-03-03 01:50:34
+L1352,Jacob,Cole,fgarcia@example.com,Organic Search,Contacted,2026-02-04 12:46:04
+L1353,Christopher,George,michelle04@example.com,Referral,Nurturing,2026-03-21 20:46:34
+L1354,Kimberly,Hardy,ashleyjackson@example.com,Email Marketing,Closed-Won,2026-03-05 16:59:20
+L1355,Dominic,Turner,kthomas@example.com,Direct,Closed-Won,2026-02-12 12:19:05
+L1356,Robert,Washington,wardsheryl@example.net,LinkedIn Ads,Nurturing,2026-02-22 20:23:17
+L1357,Tyler,Jensen,trodriguez@example.org,Direct,Closed-Lost,2026-03-28 17:47:04
+L1358,Martin,Oliver,scott69@example.org,Direct,Nurturing,2026-03-06 11:22:46
+L1359,Malik,Valentine,timothythompson@example.com,Referral,Closed-Won,2026-02-25 05:24:55
+L1360,Kelly,Neal,yfaulkner@example.org,Organic Search,Contacted,2026-02-27 00:59:42
+L1361,Nicholas,Velasquez,kdiaz@example.org,Email Marketing,Nurturing,2026-02-27 16:43:13
+L1362,Wendy,White,bentonsteven@example.net,Organic Search,Qualified,2026-03-25 13:20:22
+L1363,Samuel,Carter,fuenteslaura@example.com,Referral,Contacted,2026-02-16 09:52:00
+L1364,Victor,Schultz,johnnymoore@example.com,Referral,Closed-Lost,2026-04-02 09:30:07
+L1365,Nicholas,Cole,iaguilar@example.net,LinkedIn Ads,Closed-Won,2026-04-13 16:01:57
+L1366,Samantha,Holt,gibbsmichael@example.net,Organic Search,Closed-Lost,2026-04-26 17:15:05
+L1367,Danielle,Miller,dianekelly@example.net,Facebook Ads,Qualified,2026-03-25 17:03:04
+L1368,Bradley,Terrell,vrasmussen@example.com,Organic Search,New,2026-03-27 12:59:36
+L1369,Alex,Green,seanmyers@example.net,Email Marketing,Qualified,2026-02-06 08:13:09
+L1370,Hannah,Hernandez,webbkenneth@example.org,Facebook Ads,Qualified,2026-03-25 04:51:52
+L1371,Marie,Cross,larry73@example.net,LinkedIn Ads,Qualified,2026-02-07 07:48:42
+L1372,Michael,Davis,tflores@example.org,Direct,New,2026-03-14 22:38:58
+L1373,Jennifer,Johnson,deborah23@example.net,Facebook Ads,Contacted,2026-04-15 17:13:14
+L1374,Andrea,Rivera,omullen@example.com,Facebook Ads,Nurturing,2026-02-12 23:51:21
+L1375,Jack,Davidson,vfoster@example.net,Email Marketing,Contacted,2026-03-29 04:47:54
+L1376,James,Vargas,nsmith@example.org,Email Marketing,Contacted,2026-04-22 19:06:59
+L1377,Karen,Stokes,raylauren@example.net,Google Ads,Nurturing,2026-02-23 01:56:27
+L1378,Michael,Gonzalez,bakermichelle@example.net,Organic Search,Qualified,2026-02-14 04:59:54
+L1379,Lawrence,Price,wmatthews@example.com,Direct,Nurturing,2026-03-30 02:34:53
+L1380,Stephen,Thompson,samantha91@example.net,Organic Search,New,2026-04-19 03:32:59
+L1381,Lawrence,Allen,whiteheather@example.net,Facebook Ads,Nurturing,2026-02-09 01:28:17
+L1382,Robert,Taylor,fhenderson@example.net,Organic Search,Closed-Won,2026-03-05 18:32:08
+L1383,Heather,Brewer,angelaburns@example.org,Email Marketing,New,2026-03-20 05:32:06
+L1384,Leonard,Hayes,glennstephanie@example.com,Referral,Closed-Won,2026-02-14 05:19:18
+L1385,James,Cruz,fortiz@example.com,Organic Search,Nurturing,2026-02-09 07:29:58
+L1386,Mary,Burns,cunninghamlaura@example.org,Google Ads,Qualified,2026-04-06 00:06:07
+L1387,Antonio,Walker,gary79@example.net,LinkedIn Ads,Nurturing,2026-02-24 09:58:09
+L1388,Katie,Dunn,armstrongjoseph@example.net,Referral,Nurturing,2026-04-12 01:31:01
+L1389,Vicki,Weaver,wolfscott@example.org,Direct,Closed-Lost,2026-04-16 23:44:18
+L1390,Curtis,Greer,kennethkidd@example.com,Email Marketing,Closed-Won,2026-03-09 08:01:58
+L1391,Michael,Montoya,hgrimes@example.org,Referral,Closed-Won,2026-02-21 13:45:15
+L1392,Lisa,Matthews,michelle96@example.org,Facebook Ads,Nurturing,2026-02-16 10:24:07
+L1393,Donald,Clark,lindahudson@example.net,Facebook Ads,Qualified,2026-03-27 21:05:12
+L1394,Candice,Jackson,keith48@example.net,Organic Search,Nurturing,2026-02-23 08:19:34
+L1395,Cody,Estes,rsellers@example.net,Google Ads,Nurturing,2026-04-16 04:51:35
+L1396,Jacqueline,Anderson,jenniferpoole@example.net,LinkedIn Ads,Closed-Lost,2026-02-08 09:01:17
+L1397,Tracy,Ray,courtney67@example.org,Email Marketing,Nurturing,2026-03-06 04:24:34
+L1398,Laura,Mack,rrobertson@example.net,Email Marketing,Contacted,2026-03-29 13:48:36
+L1399,Miguel,Clements,brandi17@example.net,Referral,Nurturing,2026-04-22 05:38:53
+L1400,Heidi,Horn,brobinson@example.org,Facebook Ads,Closed-Won,2026-04-01 12:55:04
+L1401,Joseph,Clayton,amy29@example.com,Direct,New,2026-03-16 02:07:11
+L1402,Matthew,Fleming,williamsconnie@example.com,Organic Search,Closed-Won,2026-04-13 14:13:52
+L1403,David,Mathews,bbryant@example.org,Direct,Closed-Lost,2026-01-28 15:17:19
+L1404,Regina,Khan,erik41@example.net,Google Ads,New,2026-04-03 21:53:09
+L1405,John,Watson,brettgarrett@example.net,Email Marketing,Nurturing,2026-03-03 01:13:33
+L1406,Karina,Patterson,padillaaaron@example.com,Facebook Ads,Nurturing,2026-04-04 23:10:01
+L1407,David,Perez,ssmith@example.com,Facebook Ads,New,2026-02-03 14:57:39
+L1408,David,Dalton,timperez@example.org,LinkedIn Ads,Nurturing,2026-04-16 09:21:09
+L1409,Linda,Garcia,nicole26@example.org,LinkedIn Ads,Contacted,2026-04-08 00:09:09
+L1410,Victoria,Thomas,bishopfrank@example.com,Organic Search,Qualified,2026-03-30 08:19:52
+L1411,Jason,Goodman,cjensen@example.org,LinkedIn Ads,Nurturing,2026-04-07 04:44:21
+L1412,Peggy,Taylor,lawrencepatrick@example.com,LinkedIn Ads,Nurturing,2026-02-04 11:20:53
+L1413,Kylie,Wright,wrightcarolyn@example.net,LinkedIn Ads,New,2026-02-26 14:11:49
+L1414,Justin,Pugh,abbottdominique@example.com,Organic Search,New,2026-03-27 01:08:42
+L1415,April,Hicks,dphillips@example.org,Email Marketing,Closed-Won,2026-02-16 00:04:25
+L1416,Paul,Allen,ricetiffany@example.com,Google Ads,Qualified,2026-03-16 02:31:21
+L1417,David,Valencia,rdiaz@example.org,Facebook Ads,Closed-Lost,2026-02-26 18:47:07
+L1418,Thomas,Archer,smithcarlos@example.com,Google Ads,Closed-Lost,2026-04-11 02:37:50
+L1419,Bill,Brown,ohunter@example.net,Google Ads,New,2026-02-17 00:04:04
+L1420,Katie,Henderson,imiller@example.net,Facebook Ads,Contacted,2026-03-16 16:52:45
+L1421,Eric,Miller,dixonjames@example.org,Referral,New,2026-03-27 20:50:39
+L1422,Mark,Willis,collinssamuel@example.org,Direct,Contacted,2026-03-20 03:13:48
+L1423,John,Middleton,chavezchelsea@example.com,Facebook Ads,Contacted,2026-02-01 16:16:52
+L1424,Judith,Yang,smithderrick@example.org,Organic Search,Closed-Lost,2026-04-01 17:25:42
+L1425,Tyler,Reed,gary24@example.net,Google Ads,Closed-Won,2026-02-11 23:06:29
+L1426,David,Yoder,lindsay48@example.org,Facebook Ads,Nurturing,2026-04-23 02:50:47
+L1427,Jennifer,Ray,crawfordwilliam@example.org,Email Marketing,Qualified,2026-02-21 14:04:03
+L1428,Michele,Jackson,jonathangarcia@example.net,Referral,Qualified,2026-03-16 13:31:34
+L1429,Jennifer,Perez,williamsmichelle@example.org,Facebook Ads,Closed-Won,2026-04-02 12:09:54
+L1430,Thomas,Reyes,haroldhorne@example.org,Direct,Closed-Lost,2026-01-31 12:29:43
+L1431,Linda,Klein,pwalker@example.com,Email Marketing,New,2026-03-21 17:37:07
+L1432,Jennifer,Nelson,duncandavid@example.net,Referral,Contacted,2026-04-25 23:26:48
+L1433,Brian,Walker,finleycasey@example.com,LinkedIn Ads,New,2026-04-24 15:01:31
+L1434,Justin,Kirk,christopher70@example.com,Direct,New,2026-04-21 03:21:06
+L1435,Kelly,Mueller,stevenvargas@example.com,LinkedIn Ads,Closed-Won,2026-02-15 12:56:53
+L1436,Kimberly,Oconnor,edwardrandolph@example.org,Email Marketing,Nurturing,2026-04-12 01:40:11
+L1437,Amber,Fields,tapiaaaron@example.net,Organic Search,Closed-Lost,2026-02-18 16:16:28
+L1438,Melinda,Acosta,harristonya@example.com,Facebook Ads,New,2026-03-04 14:08:04
+L1439,Susan,Kaufman,jenniferdavis@example.org,Direct,Closed-Lost,2026-03-15 19:51:39
+L1440,Megan,Gutierrez,stephen19@example.org,Referral,Closed-Lost,2026-04-24 04:10:54
+L1441,Dennis,Wilkins,vargasbryan@example.net,Facebook Ads,New,2026-03-17 03:04:57
+L1442,Joel,Green,sara65@example.com,Email Marketing,Qualified,2026-02-08 17:55:22
+L1443,Joseph,Jones,derekcarrillo@example.org,Referral,Closed-Lost,2026-03-12 00:21:10
+L1444,Daniel,Cole,richard85@example.org,Direct,New,2026-02-11 03:29:00
+L1445,Kyle,Baker,davislindsey@example.com,Referral,Closed-Won,2026-03-11 22:23:37
+L1446,Janet,Morrison,marymurphy@example.org,Referral,New,2026-04-17 06:58:15
+L1447,John,Kelly,byrdjorge@example.org,LinkedIn Ads,Closed-Won,2026-04-06 02:28:02
+L1448,Stephanie,Bond,codygarcia@example.org,Organic Search,Closed-Lost,2026-01-30 01:46:37
+L1449,Alexander,Greer,davidcolon@example.com,LinkedIn Ads,New,2026-02-07 20:21:25
+L1450,Crystal,Newman,samantha10@example.org,Direct,Closed-Lost,2026-04-03 16:30:40
+L1451,Rachel,Ramos,christopherboone@example.com,LinkedIn Ads,New,2026-02-15 06:08:32
+L1452,Brad,Murray,sandrahamilton@example.net,Referral,Nurturing,2026-02-07 22:51:38
+L1453,Tyler,Reyes,nthompson@example.org,Referral,Nurturing,2026-03-06 09:45:51
+L1454,Joshua,Stephenson,mendezchristina@example.net,Google Ads,Nurturing,2026-02-22 18:06:16
+L1455,Victor,Andrade,rbrown@example.com,LinkedIn Ads,Closed-Lost,2026-02-24 16:59:43
+L1456,Robert,Day,crystalpham@example.org,Referral,Nurturing,2026-02-09 09:08:01
+L1457,Kimberly,Howard,kcooper@example.net,Email Marketing,Contacted,2026-03-05 04:38:08
+L1458,Paul,White,carla04@example.org,Organic Search,Contacted,2026-02-27 06:44:35
+L1459,Victoria,Moreno,terrigarcia@example.net,Email Marketing,Closed-Won,2026-04-15 13:39:02
+L1460,Joseph,Velasquez,gallagherstacie@example.net,Email Marketing,Qualified,2026-02-19 11:16:38
+L1461,Toni,Price,gregorywatkins@example.net,Direct,Closed-Won,2026-04-19 05:51:01
+L1462,Michael,Vargas,stacey92@example.net,Referral,Nurturing,2026-04-04 18:56:17
+L1463,Mary,Cochran,lweaver@example.com,Organic Search,Nurturing,2026-02-14 07:58:00
+L1464,Christopher,Hall,andrewwoods@example.com,Referral,Closed-Lost,2026-01-30 17:48:44
+L1465,Christina,Drake,jennifer50@example.org,Direct,Qualified,2026-04-26 04:12:13
+L1466,Brenda,Stark,mathismichelle@example.org,LinkedIn Ads,Contacted,2026-02-10 09:32:40
+L1467,Janet,Bates,rogersmarcus@example.org,Referral,New,2026-03-04 07:52:48
+L1468,Stacy,Conner,lbanks@example.net,LinkedIn Ads,Nurturing,2026-04-08 03:51:16
+L1469,Heather,Mcfarland,jeffrey92@example.com,Facebook Ads,Nurturing,2026-03-22 14:51:09
+L1470,Jessica,Phillips,jessicarush@example.net,Direct,Closed-Won,2026-02-25 20:18:01
+L1471,Melissa,Townsend,whitelucas@example.net,Email Marketing,Nurturing,2026-03-06 01:50:52
+L1472,Danielle,Garcia,vtaylor@example.org,LinkedIn Ads,New,2026-02-17 12:04:25
+L1473,Michael,Flores,underwoodelizabeth@example.net,Organic Search,Qualified,2026-02-19 03:55:16
+L1474,Matthew,Smith,johnjones@example.com,Facebook Ads,Nurturing,2026-04-23 03:24:10
+L1475,Daniel,Smith,akim@example.org,Facebook Ads,Qualified,2026-04-13 11:14:24
+L1476,Robert,Macias,amy17@example.net,Referral,Qualified,2026-04-22 22:30:21
+L1477,Katherine,Perez,cjones@example.com,LinkedIn Ads,Qualified,2026-03-31 06:13:10
+L1478,Lucas,Lynn,petersonpamela@example.org,Direct,Closed-Lost,2026-01-29 00:08:08
+L1479,Charles,Mcmahon,morgantricia@example.com,LinkedIn Ads,Closed-Won,2026-04-08 02:59:57
+L1480,Anthony,Dunlap,catherinehamilton@example.org,Google Ads,Closed-Won,2026-04-05 10:57:55
+L1481,Mark,Mccann,uterry@example.net,Facebook Ads,New,2026-02-05 21:17:54
+L1482,Joseph,Campbell,codylong@example.net,Facebook Ads,Closed-Lost,2026-03-20 11:56:02
+L1483,Travis,Brown,pattersonkelly@example.net,Organic Search,Nurturing,2026-04-18 14:21:12
+L1484,Caroline,Gonzalez,clarkdanielle@example.org,Direct,Contacted,2026-03-28 17:55:04
+L1485,Megan,Parker,qruiz@example.com,Email Marketing,Nurturing,2026-03-14 00:51:00
+L1486,Darlene,Hughes,nicole52@example.com,Email Marketing,Closed-Lost,2026-02-04 21:42:53
+L1487,Jose,Marshall,maryelliott@example.org,Organic Search,Nurturing,2026-01-31 09:18:55
+L1488,Heather,Davis,lindsey69@example.org,Referral,New,2026-04-10 02:11:07
+L1489,Bruce,Hughes,rsheppard@example.com,Google Ads,Qualified,2026-03-21 19:20:11
+L1490,Nicole,Alvarez,fostermelissa@example.org,Facebook Ads,Nurturing,2026-03-23 15:52:17
+L1491,Ashley,Black,davidtodd@example.org,Email Marketing,Contacted,2026-03-16 19:19:54
+L1492,Teresa,Stokes,bradmiller@example.net,LinkedIn Ads,Closed-Lost,2026-02-12 06:52:21
+L1493,James,Carson,maryscott@example.net,Direct,Qualified,2026-03-10 07:53:25
+L1494,Lindsay,Miller,rarnold@example.net,Organic Search,Closed-Won,2026-04-25 19:31:48
+L1495,Sally,Smith,jrodriguez@example.org,Direct,Qualified,2026-03-12 12:56:02
+L1496,Brianna,Chang,buckleyanna@example.org,Organic Search,Closed-Lost,2026-03-23 01:36:36
+L1497,Justin,Nichols,natalie46@example.net,Direct,Qualified,2026-04-13 08:16:14
+L1498,Ashley,Kennedy,joshuathomas@example.net,LinkedIn Ads,Closed-Lost,2026-03-15 04:50:42
+L1499,Heather,Williams,hannah07@example.com,Organic Search,Qualified,2026-04-03 03:45:34
